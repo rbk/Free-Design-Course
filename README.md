@@ -3,14 +3,15 @@
 ## Overview
 
 My interest in design has grown so I decided to view all of these articles to improve my design skills.
+Feel free to fork this repo and follow along too. I'll be marking these off as I progress.
 
 ## The Course
 
-- [ ]  NISHI - [http://heynishi.com/](http://heynishi.com/)
-- [ ]  ANIMATION IN DESIGN SYSTEMS - [https://24ways.org/2016/animation-in-design-systems/](https://24ways.org/2016/animation-in-design-systems/)
-- [ ]  Hipster Websites - [https://httpster.net/2018/jul/](https://httpster.net/2018/jul/)
-- [ ]  DESIGNING FOR LARGE SCREEN SMARTPHONES - [http://www.lukew.com/ff/entry.asp?1927=](http://www.lukew.com/ff/entry.asp?1927=)
-- [ ]  [https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [x]  NISHI - [http://heynishi.com/](http://heynishi.com/)
+- [x]  ANIMATION IN DESIGN SYSTEMS - [https://24ways.org/2016/animation-in-design-systems/](https://24ways.org/2016/animation-in-design-systems/)
+- [x]  Hipster Websites - [https://httpster.net/2018/jul/](https://httpster.net/2018/jul/)
+- [x]  DESIGNING FOR LARGE SCREEN SMARTPHONES - [http://www.lukew.com/ff/entry.asp?1927=](http://www.lukew.com/ff/entry.asp?1927=)
+- [x]  [https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [ ]  ACCESSIBILITY: THE MISSING INGREDIENT - [http://alistapart.com/article/accessibility-the-missing-ingredient](http://alistapart.com/article/accessibility-the-missing-ingredient)
 - [ ]  A11Y PROJECT - [http://a11yproject.com/](http://a11yproject.com/)
 - [ ]  WEB ACCESSIBILITY CHECKLIST - [http://a11yproject.com/checklist.html](http://a11yproject.com/checklist.html)
