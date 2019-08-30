@@ -21,6 +21,8 @@ Feel free to fork this repo and follow along too. I'll be marking these off as I
 ## Quick Design Tips
 - [x]  [https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
+## Free Resources
+- [ ] [Freebiesbug.com](https://freebiesbug.com)
 
 - [ ]  A11Y PROJECT - [http://a11yproject.com/](http://a11yproject.com/)
 - [ ]  WEB ACCESSIBILITY CHECKLIST - [http://a11yproject.com/checklist.html](http://a11yproject.com/checklist.html)
