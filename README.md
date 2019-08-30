@@ -7,12 +7,21 @@ Feel free to fork this repo and follow along too. I'll be marking these off as I
 
 ## The Course
 
-- [x]  NISHI - [http://heynishi.com/](http://heynishi.com/)
-- [x]  ANIMATION IN DESIGN SYSTEMS - [https://24ways.org/2016/animation-in-design-systems/](https://24ways.org/2016/animation-in-design-systems/)
+## Exploring Design
 - [x]  Hipster Websites - [https://httpster.net/2018/jul/](https://httpster.net/2018/jul/)
+- [x]  NISHI - [http://heynishi.com/](http://heynishi.com/)
+- [ ]  SITESEE - [https://sitesee.co/](https://sitesee.co/)
+
+## Animation
+- [x]  ANIMATION IN DESIGN SYSTEMS - [https://24ways.org/2016/animation-in-design-systems/](https://24ways.org/2016/animation-in-design-systems/)
+
+## Mobile
 - [x]  DESIGNING FOR LARGE SCREEN SMARTPHONES - [http://www.lukew.com/ff/entry.asp?1927=](http://www.lukew.com/ff/entry.asp?1927=)
+
+## Quick Design Tips
 - [x]  [https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-- [ ]  ACCESSIBILITY: THE MISSING INGREDIENT - [http://alistapart.com/article/accessibility-the-missing-ingredient](http://alistapart.com/article/accessibility-the-missing-ingredient)
+
+
 - [ ]  A11Y PROJECT - [http://a11yproject.com/](http://a11yproject.com/)
 - [ ]  WEB ACCESSIBILITY CHECKLIST - [http://a11yproject.com/checklist.html](http://a11yproject.com/checklist.html)
 - [ ]  COLORABLE - [http://jxnblk.com/colorable/demos/text/](http://jxnblk.com/colorable/demos/text/)
@@ -208,7 +217,6 @@ Feel free to fork this repo and follow along too. I'll be marking these off as I
 - [ ]  HTTPSTER - [http://httpster.net/](http://httpster.net/)
 - [ ]  EMPTY STATES - [http://emptystat.es/](http://emptystat.es/)
 - [ ]  WHAT COMES NEXT IS THE FUTURE - [https://vimeo.com/177267839](https://vimeo.com/177267839)
-- [ ]  SITESEE - [https://sitesee.co/](https://sitesee.co/)
 - [ ]  CASE STUDY CLUB - [https://www.casestudy.club/](https://www.casestudy.club/)
 - [ ]  ATTACK THE FRONT - [http://attackthefront.com/](http://attackthefront.com/)
 - [ ]  DESIGNERS:WATCH - [http://designers.watch/](http://designers.watch/)
