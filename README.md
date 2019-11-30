@@ -7,6 +7,9 @@ Feel free to fork this repo and follow along too. I'll be marking these off as I
 
 ## The Course
 
+## Virtual Reality Design
+- [x]  THE UX OF VR - [http://www.uxofvr.com/](http://www.uxofvr.com/)
+
 ## Exploring Design
 - [x]  Hipster Websites - [https://httpster.net/2018/jul/](https://httpster.net/2018/jul/)
 - [x]  NISHI - [http://heynishi.com/](http://heynishi.com/)
@@ -128,7 +131,6 @@ Feel free to fork this repo and follow along too. I'll be marking these off as I
 - [ ]  DESIGN PRINCIPLE: CONSISTENCY - [https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f](https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f)
 - [ ]  SPEAKING VOLUMES - [https://design.google/library/speaking-volumes/](https://design.google/library/speaking-volumes/)
 - [ ]  THE DESIGNER’S AI STUDY GUIDE - [http://www.hugeinc.com/ideas/perspective/the-designers-ai-study-guide](http://www.hugeinc.com/ideas/perspective/the-designers-ai-study-guide)
-- [ ]  THE UX OF VR - [http://www.uxofvr.com/](http://www.uxofvr.com/)
 - [ ]  DROPDOWNS: DESIGN GUIDELINES - [https://www.nngroup.com/articles/drop-down-menus/](https://www.nngroup.com/articles/drop-down-menus/)
 - [ ]  HOW TO AVOID UX BURNOUT - [http://boxesandarrows.com/how-to-avoid-ux-burnout/](http://boxesandarrows.com/how-to-avoid-ux-burnout/)
 - [ ]  VISUAL SUGAR - [https://uxdesign.cc/visual-sugar-f46b47ee04e5](https://uxdesign.cc/visual-sugar-f46b47ee04e5)
